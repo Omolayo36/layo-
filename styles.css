@@ -437,13 +437,13 @@ section .last-cover{
 	margin-top: 80px;
 	}
 .last-section h2{
-	font-size: 1.25em;
+	font-size: 1.75em;
 	padding: 60px 0 0 30px;
 	margin-bottom: 20px;
 	}
 .last-section  h3{
 	padding: 0 0 0 30px;
-	font-size: 0.75em;
+	font-size: 1.25em;
 	}
 .down-section{
 	display: flex;
