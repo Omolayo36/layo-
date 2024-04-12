@@ -384,7 +384,7 @@ main .container{
 .hero-section p{
 	width: 200px;
 	margin: 20px 0 5px -50px;
-	font-size: 1em;
+	font-size: .85em;
 	line-height: 1.5;
 	}
 .hero-section a{
